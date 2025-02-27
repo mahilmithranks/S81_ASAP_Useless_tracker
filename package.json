@@ -8,12 +8,20 @@
     "type": "git",
     "url": "git+https://github.com/mahilmithranks/S81_ASAP_Useless_tracker.git"
   },
-  "keywords": ["click tracker", "useless counter", "leaderboard", "fun project"],
+  "keywords": [
+    "click tracker",
+    "useless counter",
+    "leaderboard",
+    "fun project"
+  ],
   "author": "Mahil",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/mahilmithranks/S81_ASAP_Useless_tracker/issues"
   },
-  "homepage": "https://github.com/mahilmithranks/S81_ASAP_Useless_tracker#readme"
+  "homepage": "https://github.com/mahilmithranks/S81_ASAP_Useless_tracker#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
