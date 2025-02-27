@@ -1,0 +1,21 @@
+{
+  "name": "s81_asap_useless_tracker",
+  "version": "1.0.0",
+  "description": "A website that features a button labeled **\"Click Me.\"**  \r Every time a user clicks it, a global counter increases.  \r Users are ranked based on how many times they have clicked.  \r The top clickers receive **silly titles** like \"Supreme Button Masher.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahilmithranks/S81_ASAP_Useless_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mahilmithranks/S81_ASAP_Useless_tracker/issues"
+  },
+  "homepage": "https://github.com/mahilmithranks/S81_ASAP_Useless_tracker#readme"
+}
