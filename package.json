@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/mahilmithranks/S81_ASAP_Useless_tracker#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2"
   }
 }
